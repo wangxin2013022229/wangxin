@@ -4,5 +4,6 @@ class  test
   {
   
   System.out.println(“你是谁”);
+  System.out.println("我也叫王鑫");
   }
 }
